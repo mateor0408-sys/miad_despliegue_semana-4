@@ -1,0 +1,7 @@
+.tox/
+__pycache__/
+*.egg-info/
+build/
+package-src/dist/
+package-src/model/trained/*.pkl
+.DS_Store
